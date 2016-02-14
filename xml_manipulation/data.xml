@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<websites>
+  <last_update>2016-02-14 12:00:18</last_update>
+  <website sequence="0" name="http://www.github.io" status="opened">
+    <globalStatus>updated</globalStatus>
+    <version>1.0</version>
+  </website>
+  <website sequence="1" name="http://www.github.com" status="review">
+    <globalStatus>updated</globalStatus>
+    <version>1.0</version>
+  </website>
+  <website sequence="2" name="http://www.example.com" status="closed">
+    <globalStatus>updated</globalStatus>
+    <version>1.0</version>
+  </website>
+  <website sequence="3" name="http://www.mywebsite.com" status="closed">
+    <globalStatus>updated</globalStatus>
+    <version>1.0</version>
+  </website>
+  <website sequence="4" name="http://www.github.xyz" status="N/A">
+    <globalStatus>updated</globalStatus>
+    <version>1.0</version>
+  </website>
+</websites>
